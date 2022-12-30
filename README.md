@@ -1,9 +1,9 @@
-# git-proj
+# GIT Project
 
-## Deployment notes
+## Contents
 
-## Staging notes
+### Deployment notes
 
-## How to use the code notes
+### How to use the code notes
 
-## Contact
+### License
