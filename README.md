@@ -4,4 +4,6 @@
 
 ## Staging notes
 
-## How to use the repo notes
+## How to use the code notes
+
+## Contact
